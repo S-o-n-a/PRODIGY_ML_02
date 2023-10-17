@@ -8,7 +8,11 @@ The scatter plot shows that there is a positive correlation between annual incom
 The K-means clustering algorithm has grouped the customers into five clusters based on their annual income and spending scores. The clusters are as follows:
 
 Cluster 1 (red): Customers with low incomes and low spending scores.
+
 Cluster 2 (orange): Customers with medium incomes and medium spending scores.
+
 Cluster 3 (yellow): Customers with high incomes and medium spending scores.
+
 Cluster 4 (green): Customers with low incomes and high spending scores.
+
 Cluster 5 (blue): Customers with high incomes and high spending scores.
